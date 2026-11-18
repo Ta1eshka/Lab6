@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessObjects/BusinessObjects.csproj" />
+  <Project Path="DataObjects/DataObjects.csproj" />
+  <Project Path="HospitalApp/HospitalApp.csproj" />
+  <Project Path="ServiceLayer/ServiceLayer.csproj" />
+</Solution>
